@@ -135,4 +135,3 @@ describe('check work class Daemon', () => {
     expect(daemon.attack).toEqual(expected);
   });
 });
-

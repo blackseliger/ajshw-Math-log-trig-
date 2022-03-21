@@ -5,4 +5,3 @@ export default class Daemon extends MathCharacter {
     console.log(this.attack);
   }
 }
-
